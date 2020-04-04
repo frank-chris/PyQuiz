@@ -3,9 +3,9 @@ This project is a quiz program developed with Python, that uses web scraping to 
 ___
 
 ### Python Modules used
-1. PyQt5
+1. [PyQt5](https://pypi.org/project/PyQt5/)   
 2. requests
-3. bs4
+3. [bs4](https://pypi.org/project/beautifulsoup4/)   
 4. functools
 5. re
 6. random
@@ -15,12 +15,12 @@ ___
 ### Requirements
 The program requires the following modules to be installed:
 
- 1. PyQt5       
+ 1. [PyQt5](https://pypi.org/project/PyQt5/)       
 pip3 install PyQt5  
 sudo apt-get install python3-pyqt5
 
 
- 2. bs4         
+ 2. [bs4](https://pypi.org/project/beautifulsoup4/)         
 pip install beautifulsoup4  
 sudo apt-get install python3-bs4
 
@@ -28,7 +28,7 @@ sudo apt-get install python3-bs4
 It also requires the following image files (which I have provided) to be present in the same folder as the python files
 
 1. [logo.png](https://github.com/frank-chris/PyQuiz/blob/master/logo.png)
-2. top bar.png
+2. [top bar.png](https://github.com/frank-chris/PyQuiz/blob/master/top%20bar.png)
 ___
 
 ### Video
