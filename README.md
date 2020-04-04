@@ -27,7 +27,7 @@ sudo apt-get install python3-bs4
 
 It also requires the following image files (which I have provided) to be present in the same folder as the python files
 
-1. logo.png
+1. [logo.png](https://github.com/frank-chris/PyQuiz/blob/master/logo.png)
 2. top bar.png
 ___
 
